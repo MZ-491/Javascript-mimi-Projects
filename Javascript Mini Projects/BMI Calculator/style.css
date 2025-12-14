@@ -1,0 +1,23 @@
+
+body{
+    background-color: gainsboro;
+}
+
+.container{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#btn{
+    padding: 4px 20px;
+    border-radius: 5px;
+    margin-left: 100px;
+}
+.weight-guide{
+    margin-left: 100px;
+}
+#result{
+    margin-left: 100px;
+}

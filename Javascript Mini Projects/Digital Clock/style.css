@@ -1,0 +1,28 @@
+*{
+    padding:  0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+}
+
+#heading{
+    color: white;
+    margin-left: 32px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+#time{
+    height:  50px;
+    width: 200px;
+    background-color: yellow;
+    border-radius: 10px;
+    padding-left: 20px;
+    padding-top: 5px;
+}
